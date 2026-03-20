@@ -1,0 +1,8 @@
+DATASETS:
+
+Dataset No Grafico
+Kaggle - Tabular Playground Series (June 2021):
+https://www.kaggle.com/competitions/tabular-playground-series-jun-2021/data?select=train.csv
+
+Dataset Multimodal
+Kaggle - FER-2013 (Facial Expression Recognition): https://www.kaggle.com/datasets/voquocnguyen/facial?select=train.csv
