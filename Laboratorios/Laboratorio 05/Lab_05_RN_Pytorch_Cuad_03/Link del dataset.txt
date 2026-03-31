@@ -1,0 +1,4 @@
+DATASET:
+
+Dataset Multimodal
+Kaggle - FER-2013 (Facial Expression Recognition): https://www.kaggle.com/datasets/voquocnguyen/facial?select=train.csv
